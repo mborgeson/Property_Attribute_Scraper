@@ -11,13 +11,14 @@ Targeted Property Attributes List:
     - Address
     - Latitutde
     - Longitude
-    - [Attribute- TBD]
+    - Attribute - TBD
+    - Attribute - TBD
   - [Attribute Type - TBD]:
-    - [Attribute- TBD]
-    - [Attribute- TBD]
+    - Attribute - TBD
+    - Attribute - TBD
   - [Attribute Type - TBD]:
-    - [Attribute- TBD]
-    - [Attribute- TBD]
+    - Attribute - TBD
+    - Attribute - TBD
   - [Attribute Type - TBD]:
-    - [Attribute- TBD]
-    - [Attribute- TBD] 
+    - Attribute - TBD
+    - Attribute - TBD 
